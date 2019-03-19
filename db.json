@@ -1,0 +1,33 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "avatar": "https://lorempixel.com/100/100/",
+            "name": "Tan Soong Tett",
+            "bank": "Malayan Banking Berhad",
+            "accountNum":"10989981276"
+        },
+        {
+            "id": 2,
+            "avatar": "https://lorempixel.com/100/100/",
+            "name": "Wong Soong Ming",
+            "bank": "Hong Leong Bank Berhad",
+            "accountNum":"560989072"
+        },
+        {
+            "id": 3,
+            "avatar": "https://lorempixel.com/100/100/",
+            "name": "Ch'ng Beng Tiong",
+            "bank": "Public Bank Berhad",
+            "accountNum":"10989981276"
+        },
+        {
+            "id": 4,
+            "avatar": "https://lorempixel.com/100/100/",
+            "name": "Liang Mei Yen",
+            "bank": "RHB Bank Berhad",
+            "accountNum":"1098998127654646"
+        }
+
+    ]
+}
